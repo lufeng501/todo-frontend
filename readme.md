@@ -1,6 +1,6 @@
 todo-frontend
 ======
 
-> npm install
-> npm run dev
-> npm run build
+1. npm install
+2. npm run dev
+3. npm run build
